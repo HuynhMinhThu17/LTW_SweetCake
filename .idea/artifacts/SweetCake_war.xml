@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SweetCake:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SweetCake</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="example.sweetcake-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SweetCake:war exploded" />
+    </root>
+  </artifact>
+</component>

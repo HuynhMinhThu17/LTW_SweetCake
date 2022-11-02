@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/admin/admin-chi-tiet-don-hang.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/client/blog-tintuc-1.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/client" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/client/blog-tintuc-2.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/client" />
+      </map>
+    </option>
+  </component>
+</project>
